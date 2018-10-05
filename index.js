@@ -1,6 +1,7 @@
 'use strict';
 
 const express = require('express');
+console.log('nothing');
 
 // Constants
 const PORT = 8080;
